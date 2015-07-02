@@ -16,13 +16,7 @@ Create a project that someone can checkout, install dependencies easily and be a
 
 Fork this repo  
 Say yes when Karma asks if you want a bootstrap file  
-Serve files from your test main as '/base/src'  
-
-To get npm working
-```
-npm set config http-proxy http://proxy.tradermedia.co.uk:8080
-npm set config https-proxy http://proxy.tradermedia.co.uk:8080
-```
+Serve files from your test main as '/base/src'
 
 # Resources
 Node.JS - http://nodejs.org  
